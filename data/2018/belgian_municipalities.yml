@@ -154,6 +154,7 @@
     region_NL: "Vlaams Gewest"
     region_FR: "Région flamande"
     inhabitants: "26,771"
+    zip: 2950
   - 
     NIS_code: 11024
     municipality_NL: "Kontich"
