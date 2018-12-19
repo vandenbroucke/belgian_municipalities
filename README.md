@@ -1,6 +1,3 @@
-
-TODO: add git ignore
-
 # Belgian Municipalities 2018 (Open Data)
 This dataset is constructed to provide easy access to data concering the municipalities of Belgium.
 This repository provides the following information of Belgium's 589 municipalities:
