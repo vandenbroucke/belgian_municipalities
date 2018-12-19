@@ -1,0 +1,35 @@
+{
+  "name": "belgian_municipalities",
+  "version": "0.0.1",
+  "description": "Open data set of all Belgian municipalities ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandenbroucke/belgian_municipalities.git"
+  },
+  "keywords": [
+    "Belgium",
+    "Belgian",
+    "Municipalities",
+    "Open",
+    "data",
+    "inhabitants",
+    "zip",
+    "code",
+    "cities",
+    "provinces"
+  ],
+  "author": "Steven Vanden Broucke",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vandenbroucke/belgian_municipalities/issues"
+  },
+  "homepage": "https://github.com/vandenbroucke/belgian_municipalities#readme",
+  "dependencies": {
+    "json2csv": "^4.3.2",
+    "json2yaml": "^1.1.0",
+    "xml-js": "^1.6.8"
+  }
+}
