@@ -1,6 +1,6 @@
-# <img src="https://lipis.github.io/flag-icon-css/flags/4x3/be.svg" height="24"> Belgian Municipalities 2018 (Open Data)
+# <img src="https://lipis.github.io/flag-icon-css/flags/4x3/be.svg" height="24"> Belgian Municipalities 2019 (Open Data)
 This dataset is constructed to provide easy access to data concering the municipalities of Belgium.
-This repository provides the following information of Belgium's 589 municipalities:
+This repository provides the following information of Belgium's 581 municipalities:
 
 
 | Entity Property | Description |
@@ -36,7 +36,8 @@ If you spot any errors in the data, please be so kind to notify us with a pull-r
 ## Sources
 This repository was generated using the following data sources:
 
--    [Statbel population on 1th of January, 2018](http://statbel.fgov.be/sites/default/files/files/documents/bevolking/5.1%20Structuur%20van%20de%20bevolking/Wettelijke_bevolking_per_gemeente_2011_2017.xls)
+-   [Découpages Géographiques](https://statbel.fgov.be/fr/propos-de-statbel/methodologie/classifications/geographie)
+-   [Statbel population on 1th of January, 2018](http://statbel.fgov.be/sites/default/files/files/documents/bevolking/5.1%20Structuur%20van%20de%20bevolking/Wettelijke_bevolking_per_gemeente_2011_2017.xls)
 -   [rubenv/belgium-zipcodes](https://github.com/rubenv/belgium-zipcodes/blob/master/out/cities.csv)
 -   [maartenzam/NIScodes](https://github.com/maartenzam/NIScodes)
 
