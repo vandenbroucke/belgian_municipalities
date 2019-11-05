@@ -36,8 +36,11 @@ If you spot any errors in the data, please be so kind to notify us with a pull-r
 ## Sources
 This repository was generated using the following data sources:
 
+
 -   [Découpages Géographiques](https://statbel.fgov.be/fr/propos-de-statbel/methodologie/classifications/geographie)
 -   [Statbel population on 1th of January, 2018](http://statbel.fgov.be/sites/default/files/files/documents/bevolking/5.1%20Structuur%20van%20de%20bevolking/Wettelijke_bevolking_per_gemeente_2011_2017.xls)
+-   [Statbel population on 1th of January, 2019](https://statbel.fgov.be/sites/default/files/files/documents/bevolking/5.1%20Structuur%20van%20de%20bevolking/Bevolking_per_gemeente.xlsx)
+-   [Découpages Géographiques](https://statbel.fgov.be/fr/propos-de-statbel/methodologie/classifications/geographie)
 -   [rubenv/belgium-zipcodes](https://github.com/rubenv/belgium-zipcodes/blob/master/out/cities.csv)
 -   [maartenzam/NIScodes](https://github.com/maartenzam/NIScodes)
 
