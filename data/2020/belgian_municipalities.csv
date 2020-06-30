@@ -1,0 +1,582 @@
+"NIS_code","municipality_NL","municipality_FR","arrondissement_NL","arrondissement_FR","province_NL","province_FR","region_NL","region_FR","inhabitants","zip"
+11001,"Aartselaar","Aartselaar","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","14427",2630
+11002,"Antwerpen","Anvers","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","529247",2000
+11004,"Boechout","Boechout","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","13372",2530
+11005,"Boom","Boom","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","18555",2850
+11007,"Borsbeek","Borsbeek","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","10949",2150
+11008,"Brasschaat","Brasschaat","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","38223",2930
+11009,"Brecht","Brecht","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","29454",2960
+11013,"Edegem","Edegem","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","22261",2650
+11016,"Essen","Essen","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","19162",2910
+11018,"Hemiksem","Hemiksem","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","11634",2620
+11021,"Hove","Hove","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","8277",2540
+11022,"Kalmthout","Kalmthout","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","18872",2920
+11023,"Kapellen","Kapellen","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","26981",2950
+11024,"Kontich","Kontich","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","21203",2550
+11025,"Lint","Lint","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","8641",2547
+11029,"Mortsel","Mortsel","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","26157",2640
+11030,"Niel","Niel","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","10546",2845
+11035,"Ranst","Ranst","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","19187",2520
+11037,"Rumst","Rumst","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","15050",2840
+11038,"Schelle","Schelle","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","8529",2627
+11039,"Schilde","Schilde","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","19873",2970
+11040,"Schoten","Schoten","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","34316",2900
+11044,"Stabroek","Stabroek","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","18789",2940
+11050,"Wijnegem","Wijnegem","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","9983",2110
+11052,"Wommelgem","Wommelgem","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","12943",2160
+11053,"Wuustwezel","Wuustwezel","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","21213",2990
+11054,"Zandhoven","Zandhoven","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","13071",2240
+11055,"Zoersel","Zoersel","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","22065",2980
+11056,"Zwijndrecht","Zwijndrecht","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","19154",2070
+11057,"Malle","Malle","Antwerpen","Anvers","Antwerpen","Anvers","Vlaams Gewest","Région flamande","15602",2390
+12002,"Berlaar","Berlaar","Mechelen","Malines","Antwerpen","Anvers","Vlaams Gewest","Région flamande","11656",2590
+12005,"Bonheiden","Bonheiden","Mechelen","Malines","Antwerpen","Anvers","Vlaams Gewest","Région flamande","15078",2820
+12007,"Bornem","Bornem","Mechelen","Malines","Antwerpen","Anvers","Vlaams Gewest","Région flamande","21353",2880
+12009,"Duffel","Duffel","Mechelen","Malines","Antwerpen","Anvers","Vlaams Gewest","Région flamande","17664",2570
+12014,"Heist-op-den-Berg","Heist-op-den-Berg","Mechelen","Malines","Antwerpen","Anvers","Vlaams Gewest","Région flamande","42950",2221
+12021,"Lier","Lierre","Mechelen","Malines","Antwerpen","Anvers","Vlaams Gewest","Région flamande","36646",2500
+12025,"Mechelen","Malines","Mechelen","Malines","Antwerpen","Anvers","Vlaams Gewest","Région flamande","86921",2801
+12026,"Nijlen","Nijlen","Mechelen","Malines","Antwerpen","Anvers","Vlaams Gewest","Région flamande","22936",2560
+12029,"Putte","Putte","Mechelen","Malines","Antwerpen","Anvers","Vlaams Gewest","Région flamande","17927",2580
+12035,"Sint-Katelijne-Waver","Sint-Katelijne-Waver","Mechelen","Malines","Antwerpen","Anvers","Vlaams Gewest","Région flamande","21026",2861
+12040,"Willebroek","Willebroek","Mechelen","Malines","Antwerpen","Anvers","Vlaams Gewest","Région flamande","26826",2830
+12041,"Puurs-Sint-Amands","Puers-Saint-Amand","Mechelen","Malines","Antwerpen","Anvers","Vlaams Gewest","Région flamande","26142",2870
+13001,"Arendonk","Arendonk","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","13290",2370
+13002,"Baarle-Hertog","Baerle-Duc","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","2865",2387
+13003,"Balen","Balen","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","22813",2490
+13004,"Beerse","Beerse","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","18128",2340
+13006,"Dessel","Dessel","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","9605",2480
+13008,"Geel","Geel","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","40709",2440
+13010,"Grobbendonk","Grobbendonk","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","11172",2288
+13011,"Herentals","Herentals","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","28272",2200
+13012,"Herenthout","Herenthout","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","9109",2270
+13013,"Herselt","Herselt","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","14521",2230
+13014,"Hoogstraten","Hoogstraten","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","21424",2320
+13016,"Hulshout","Hulshout","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","10471",2235
+13017,"Kasterlee","Kasterlee","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","18882",2460
+13019,"Lille","Lille","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","16564",2275
+13021,"Meerhout","Meerhout","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","10324",2450
+13023,"Merksplas","Merksplas","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","8588",2330
+13025,"Mol","Mol","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","37022",2400
+13029,"Olen","Olen","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","12560",2250
+13031,"Oud-Turnhout","Oud-Turnhout","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","13977",2360
+13035,"Ravels","Ravels","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","15023",2382
+13036,"Retie","Retie","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","11508",2470
+13037,"Rijkevorsel","Rijkevorsel","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","12178",2310
+13040,"Turnhout","Turnhout","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","45280",2300
+13044,"Vorselaar","Vorselaar","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","7936",2290
+13046,"Vosselaar","Vosselaar","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","11343",2350
+13049,"Westerlo","Westerlo","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","25119",2260
+13053,"Laakdal","Laakdal","Turnhout","Turnhout","Antwerpen","Anvers","Vlaams Gewest","Région flamande","16186",2430
+21001,"Anderlecht","Anderlecht","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","120887",1070
+21002,"Oudergem","Auderghem","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","34404",1160
+21003,"Sint-Agatha-Berchem","Berchem-Sainte-Agathe","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","25502",1082
+21004,"Brussel","Bruxelles","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","185103",1000
+21005,"Etterbeek","Etterbeek","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","48473",1040
+21006,"Evere","Evere","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","42656",1140
+21007,"Vorst","Forest","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","56581",1190
+21008,"Ganshoren","Ganshoren","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","25234",1083
+21009,"Elsene","Ixelles","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","87632",1050
+21010,"Jette","Jette","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","52728",1090
+21011,"Koekelberg","Koekelberg","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","21959",1081
+21012,"Sint-Jans-Molenbeek","Molenbeek-Saint-Jean","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","97979",1080
+21013,"Sint-Gillis","Saint-Gilles","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","49678",1060
+21014,"Sint-Joost-ten-Node","Saint-Josse-ten-Noode","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","27497",1210
+21015,"Schaarbeek","Schaerbeek","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","132799",1030
+21016,"Ukkel","Uccle","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","83980",1180
+21017,"Watermaal-Bosvoorde","Watermael-Boitsfort","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","25332",1170
+21018,"Sint-Lambrechts-Woluwe","Woluwe-Saint-Lambert","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","57712",1200
+21019,"Sint-Pieters-Woluwe","Woluwe-Saint-Pierre","Brussel-Hoofdstad","Bruxelles-Capitale",0,0,"Brussels Hoofdstedelijk Gewest","Région de Bruxelles-Capitale","42119",1150
+23002,"Asse","Asse","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","33505",1730
+23003,"Beersel","Beersel","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","25343",1652
+23009,"Bever","Biévène","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","2178",1547
+23016,"Dilbeek","Dilbeek","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","43423",1700
+23023,"Galmaarden","Gammerages","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","8836",1570
+23024,"Gooik","Gooik","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","9189",1755
+23025,"Grimbergen","Grimbergen","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","37972",1852
+23027,"Halle","Hal","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","40182",1501
+23032,"Herne","Herne","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","6699",1540
+23033,"Hoeilaart","Hoeilaart","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","11408",1560
+23038,"Kampenhout","Kampenhout","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","12129",1910
+23039,"Kapelle-op-den-Bos","Kapelle-op-den-Bos","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","9501",1880
+23044,"Liedekerke","Liedekerke","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","13397",1770
+23045,"Londerzeel","Londerzeel","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","18861",1840
+23047,"Machelen","Machelen","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","15605",1831
+23050,"Meise","Meise","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","19627",1860
+23052,"Merchtem","Merchtem","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","16766",1785
+23060,"Opwijk","Opwijk","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","14746",1745
+23062,"Overijse","Overijse","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","25497",3090
+23064,"Pepingen","Pepingen","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","4537",1673
+23077,"Sint-Pieters-Leeuw","Sint-Pieters-Leeuw","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","34621",1600
+23081,"Steenokkerzeel","Steenokkerzeel","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","12279",1820
+23086,"Ternat","Ternat","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","16012",1742
+23088,"Vilvoorde","Vilvorde","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","45495",1800
+23094,"Zaventem","Zaventem","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","34782",1930
+23096,"Zemst","Zemst","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","23260",1982
+23097,"Roosdaal","Roosdaal","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","11665",1761
+23098,"Drogenbos","Drogenbos","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","5653",1620
+23099,"Kraainem","Kraainem","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","13853",1950
+23100,"Linkebeek","Linkebeek","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","4696",1630
+23101,"Sint-Genesius-Rode","Rhode-Saint-Genèse","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","18519",1640
+23102,"Wemmel","Wemmel","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","16814",1780
+23103,"Wezembeek-Oppem","Wezembeek-Oppem","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","14269",1970
+23104,"Lennik","Lennik","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","9096",1750
+23105,"Affligem","Affligem","Halle-Vilvoorde","Hal-Vilvorde","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","13351",1790
+24001,"Aarschot","Aarschot","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","30183",3200
+24007,"Begijnendijk","Begijnendijk","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","10256",3130
+24008,"Bekkevoort","Bekkevoort","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","6332",3460
+24009,"Bertem","Bertem","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","10141",3060
+24011,"Bierbeek","Bierbeek","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","10162",3360
+24014,"Boortmeerbeek","Boortmeerbeek","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","12629",3190
+24016,"Boutersem","Boutersem","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","8242",3370
+24020,"Diest","Diest","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","24234",2100
+24028,"Geetbets","Geetbets","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","6136",3450
+24033,"Haacht","Haacht","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","14854",3150
+24038,"Herent","Herent","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","21920",3020
+24041,"Hoegaarden","Hoegaarden","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","6863",3320
+24043,"Holsbeek","Holsbeek","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","10062",3220
+24045,"Huldenberg","Huldenberg","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","9943",3040
+24048,"Keerbergen","Keerbergen","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","12954",3140
+24054,"Kortenaken","Kortenaken","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","7892",3471
+24055,"Kortenberg","Kortenberg","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","20289",3071
+24059,"Landen","Landen","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","16096",3404
+24062,"Leuven","Louvain","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","102275",3001
+24066,"Lubbeek","Lubbeek","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","14556",3211
+24086,"Oud-Heverlee","Oud-Heverlee","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","11088",3052
+24094,"Rotselaar","Rotselaar","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","17024",3110
+24104,"Tervuren","Tervuren","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","22708",3080
+24107,"Tienen","Tirlemont","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","35293",3300
+24109,"Tremelo","Tremelo","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","14917",3128
+24130,"Zoutleeuw","Léau","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","8575",3440
+24133,"Linter","Linter","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","7271",3350
+24134,"Scherpenheuvel-Zichem","Montaigu-Zichem","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","23078",3271
+24135,"Tielt-Winge","Tielt-Winge","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","10783",3390
+24137,"Glabbeek","Glabbeek","Leuven","Louvain","Vlaams-Brabant","Brabant flamand","Vlaams Gewest","Région flamande","5321",3384
+25005,"Bevekom","Beauvechain","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","7205",1320
+25014,"Eigenbrakel","Braine-l’Alleud","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","40170",1420
+25015,"Kasteelbrakel","Braine-le-Château","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","10548",1440
+25018,"Chaumont-Gistoux","Chaumont-Gistoux","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","11631",1325
+25023,"Court-Saint-Etienne","Court-Saint-Etienne","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","10589",1490
+25031,"Genepiën","Genappe","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","15560",1470
+25037,"Graven","Grez-Doiceau","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","13873",1390
+25043,"Incourt","Incourt","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","5522",1315
+25044,"Itter","Ittre","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","6957",1461
+25048,"Geldenaken","Jodoigne","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","14357",1370
+25050,"Terhulpen","La Hulpe","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","7442",1310
+25068,"Mont-Saint-Guibert","Mont-Saint-Guibert","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","7896",1435
+25072,"Nijvel","Nivelles","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","28883",1401
+25084,"Perwijs","Perwez","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","9461",1360
+25091,"Rixensart","Rixensart","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","22653",1332
+25105,"Tubeke","Tubize","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","26656",1480
+25107,"Villers-la-Ville","Villers-la-Ville","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","10768",1495
+25110,"Waterloo","Waterloo","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","30376",1410
+25112,"Waver","Wavre","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","34748",1301
+25117,"Chastre","Chastre","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","7685",1450
+25118,"Hélécine","Hélécine","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","3644",1357
+25119,"Lasne","Lasne","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","14257",1380
+25120,"Orp-Jauche","Orp-Jauche","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","8981",1350
+25121,"Ottignies-Louvain-la-Neuve","Ottignies-Louvain-la-Neuve","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","31316",1341
+25122,"Ramillies","Ramillies","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","6548",1367
+25123,"Rebecq","Rebecq","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","10934",1430
+25124,"Walhain","Walhain","Nijvel","Nivelles","Waals-Brabant","Brabant wallon","Waals Gewest","Région wallonne","7359",1457
+31003,"Beernem","Beernem","Brugge","Bruges","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","15817",8730
+31004,"Blankenberge","Blankenberge","Brugge","Bruges","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","20463",8370
+31005,"Brugge","Bruges","Brugge","Bruges","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","118656",8310
+31006,"Damme","Damme","Brugge","Bruges","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","11019",8340
+31012,"Jabbeke","Jabbeke","Brugge","Bruges","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","13868",8490
+31022,"Oostkamp","Oostkamp","Brugge","Bruges","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","23805",8020
+31033,"Torhout","Torhout","Brugge","Bruges","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","20467",8820
+31040,"Zedelgem","Zedelgem","Brugge","Bruges","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","22852",8211
+31042,"Zuienkerke","Zuienkerke","Brugge","Bruges","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","2709",8377
+31043,"Knokke-Heist","Knokke-Heist","Brugge","Bruges","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","33089",8300
+32003,"Diksmuide","Dixmude","Diksmuide","Dixmude","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","16843",8600
+32006,"Houthulst","Houthulst","Diksmuide","Dixmude","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","10110",8650
+32010,"Koekelare","Koekelare","Diksmuide","Dixmude","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","8760",8680
+32011,"Kortemark","Kortemark","Diksmuide","Dixmude","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","12693",8610
+32030,"Lo-Reninge","Lo-Reninge","Diksmuide","Dixmude","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","3290",8647
+33011,"Ieper","Ypres","Ieper","Ypres","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","34995",8904
+33016,"Mesen","Messines","Ieper","Ypres","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","1047",8957
+33021,"Poperinge","Poperinge","Ieper","Ypres","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","19717",8972
+33029,"Wervik","Wervik","Ieper","Ypres","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","18909",8940
+33037,"Zonnebeke","Zonnebeke","Ieper","Ypres","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","12498",8980
+33039,"Heuvelland","Heuvelland","Ieper","Ypres","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","7926",8951
+33040,"Langemark-Poelkapelle","Langemark-Poelkapelle","Ieper","Ypres","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","7825",8920
+33041,"Vleteren","Vleteren","Ieper","Ypres","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","3653",8640
+34002,"Anzegem","Anzegem","Kortrijk","Courtrai","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","14781",8570
+34003,"Avelgem","Avelgem","Kortrijk","Courtrai","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","10206",8580
+34009,"Deerlijk","Deerlijk","Kortrijk","Courtrai","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","12078",8540
+34013,"Harelbeke","Harelbeke","Kortrijk","Courtrai","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","28502",8531
+34022,"Kortrijk","Courtrai","Kortrijk","Courtrai","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","77109",8511
+34023,"Kuurne","Kuurne","Kortrijk","Courtrai","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","13676",8520
+34025,"Lendelede","Lendelede","Kortrijk","Courtrai","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","5787",8860
+34027,"Menen","Menin","Kortrijk","Courtrai","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","33540",8930
+34040,"Waregem","Waregem","Kortrijk","Courtrai","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","38350",8792
+34041,"Wevelgem","Wevelgem","Kortrijk","Courtrai","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","31579",8560
+34042,"Zwevegem","Zwevegem","Kortrijk","Courtrai","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","24814",8551
+34043,"Spiere-Helkijn","Espierres-Helchin","Kortrijk","Courtrai","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","2071",8587
+35002,"Bredene","Bredene","Oostende","Ostende","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","18141",8450
+35005,"Gistel","Gistel","Oostende","Ostende","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","12166",8470
+35006,"Ichtegem","Ichtegem","Oostende","Ostende","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","14041",8480
+35011,"Middelkerke","Middelkerke","Oostende","Ostende","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","19578",8432
+35013,"Oostende","Ostende","Oostende","Ostende","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","71647",8400
+35014,"Oudenburg","Oudenburg","Oostende","Ostende","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","9507",8460
+35029,"De Haan","De Haan","Oostende","Ostende","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","12700",8420
+36006,"Hooglede","Hooglede","Roeselare","Roulers","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","9973",8830
+36007,"Ingelmunster","Ingelmunster","Roeselare","Roulers","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","11131",8770
+36008,"Izegem","Izegem","Roeselare","Roulers","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","28322",8870
+36010,"Ledegem","Ledegem","Roeselare","Roulers","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","9687",8880
+36011,"Lichtervelde","Lichtervelde","Roeselare","Roulers","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","8943",8810
+36012,"Moorslede","Moorslede","Roeselare","Roulers","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","11442",8890
+36015,"Roeselare","Roulers","Roeselare","Roulers","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","63478",8800
+36019,"Staden","Staden","Roeselare","Roulers","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","11518",8840
+37002,"Dentergem","Dentergem","Tielt","Tielt","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","8612",8720
+37007,"Meulebeke","Meulebeke","Tielt","Tielt","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","10833",8760
+37010,"Oostrozebeke","Oostrozebeke","Tielt","Tielt","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","7956",8780
+37011,"Pittem","Pittem","Tielt","Tielt","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","6717",8740
+37012,"Ruiselede","Ruiselede","Tielt","Tielt","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","5368",8755
+37015,"Tielt","Tielt","Tielt","Tielt","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","20603",8700
+37017,"Wielsbeke","Wielsbeke","Tielt","Tielt","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","9833",8710
+37018,"Wingene","Wingene","Tielt","Tielt","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","14429",8750
+37020,"Ardooie","Ardooie","Tielt","Tielt","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","9077",8850
+38002,"Alveringem","Alveringem","Veurne","Furnes","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","4993",8690
+38008,"De Panne","La Panne","Veurne","Furnes","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","11147",8660
+38014,"Koksijde","Koksijde","Veurne","Furnes","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","21869",8670
+38016,"Nieuwpoort","Nieuport","Veurne","Furnes","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","11636",8301
+38025,"Veurne","Furnes","Veurne","Furnes","West-Vlaanderen","Flandre occidentale","Vlaams Gewest","Région flamande","12094",8630
+41002,"Aalst","Alost","Aalst","Alost","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","87332",9310
+41011,"Denderleeuw","Denderleeuw","Aalst","Alost","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","20551",9470
+41018,"Geraardsbergen","Grammont","Aalst","Alost","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","33649",9500
+41024,"Haaltert","Haaltert","Aalst","Alost","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","18582",9450
+41027,"Herzele","Herzele","Aalst","Alost","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","18187",9552
+41034,"Lede","Lede","Aalst","Alost","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","18866",9340
+41048,"Ninove","Ninove","Aalst","Alost","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","39251",9400
+41063,"Sint-Lievens-Houtem","Sint-Lievens-Houtem","Aalst","Alost","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","10400",9520
+41081,"Zottegem","Zottegem","Aalst","Alost","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","26686",9620
+41082,"Erpe-Mere","Erpe-Mere","Aalst","Alost","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","20146",9420
+42003,"Berlare","Berlare","Dendermonde","Termonde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","15093",9290
+42004,"Buggenhout","Buggenhout","Dendermonde","Termonde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","14662",9255
+42006,"Dendermonde","Termonde","Dendermonde","Termonde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","45870",9200
+42008,"Hamme","Hamme","Dendermonde","Termonde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","24946",1785
+42010,"Laarne","Laarne","Dendermonde","Termonde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","12361",9270
+42011,"Lebbeke","Lebbeke","Dendermonde","Termonde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","19538",9280
+42023,"Waasmunster","Waasmunster","Dendermonde","Termonde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","10933",9250
+42025,"Wetteren","Wetteren","Dendermonde","Termonde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","26021",9230
+42026,"Wichelen","Wichelen","Dendermonde","Termonde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","11649",9260
+42028,"Zele","Zele","Dendermonde","Termonde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","21338",9240
+43002,"Assenede","Assenede","Eeklo","Eeklo","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","14296",9960
+43005,"Eeklo","Eeklo","Eeklo","Eeklo","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","21285",9900
+43007,"Kaprijke","Kaprijke","Eeklo","Eeklo","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","6436",9970
+43010,"Maldegem","Maldegem","Eeklo","Eeklo","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","23958",9991
+43014,"Sint-Laureins","Sint-Laureins","Eeklo","Eeklo","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","6818",9982
+43018,"Zelzate","Zelzate","Eeklo","Eeklo","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","12899",9060
+44012,"De Pinte","De Pinte","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","10881",9840
+44013,"Destelbergen","Destelbergen","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","18528",9070
+44019,"Evergem","Evergem","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","35628",9940
+44020,"Gavere","Gavere","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","12903",9890
+44021,"Gent","Gand","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","263927",9051
+44034,"Lochristi","Lochristi","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","22610",9080
+44040,"Melle","Melle","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","11811",9090
+44043,"Merelbeke","Merelbeke","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","24756",9820
+44045,"Moerbeke","Moerbeke","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","6570",9500
+44048,"Nazareth","Nazareth","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","11702",9810
+44052,"Oosterzele","Oosterzele","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","13689",9860
+44064,"Sint-Martens-Latem","Sint-Martens-Latem","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","8365",9831
+44073,"Wachtebeke","Wachtebeke","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","7809",9185
+44081,"Zulte","Zulte","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","15791",1830
+44083,"Deinze","Deinze","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","43580",9800
+44084,"Aalter","Aalter","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","29182",9880
+44085,"Lievegem","Lievegem","Gent","Gand","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","26310",9920
+45035,"Oudenaarde","Audenarde","Oudenaarde","Audenarde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","31612",9700
+45041,"Ronse","Renaix","Oudenaarde","Audenarde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","26374",9600
+45059,"Brakel","Brakel","Oudenaarde","Audenarde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","14803",9660
+45060,"Kluisbergen","Kluisbergen","Oudenaarde","Audenarde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","6577",9690
+45061,"Wortegem-Petegem","Wortegem-Petegem","Oudenaarde","Audenarde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","6395",9790
+45062,"Horebeke","Horebeke","Oudenaarde","Audenarde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","2022",9667
+45063,"Lierde","Lierde","Oudenaarde","Audenarde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","6579",9570
+45064,"Maarkedal","Maarkedal","Oudenaarde","Audenarde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","6338",9680
+45065,"Zwalm","Zwalm","Oudenaarde","Audenarde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","8167",9630
+45068,"Kruisem","Kruisem","Oudenaarde","Audenarde","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","15743",9750
+46003,"Beveren","Beveren","Sint-Niklaas","Saint-Nicolas","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","49047",8791
+46013,"Kruibeke","Kruibeke","Sint-Niklaas","Saint-Nicolas","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","16846",9150
+46014,"Lokeren","Lokeren","Sint-Niklaas","Saint-Nicolas","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","42044",9160
+46020,"Sint-Gillis-Waas","Sint-Gillis-Waas","Sint-Niklaas","Saint-Nicolas","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","19499",9170
+46021,"Sint-Niklaas","Saint-Nicolas","Sint-Niklaas","Saint-Nicolas","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","78531",9111
+46024,"Stekene","Stekene","Sint-Niklaas","Saint-Nicolas","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","18687",9190
+46025,"Temse","Tamise","Sint-Niklaas","Saint-Nicolas","Oost-Vlaanderen","Flandre orientale","Vlaams Gewest","Région flamande","30196",9140
+51004,"Aat","Ath","Aat","Ath","Henegouwen","Hainaut","Waals Gewest","Région wallonne","29494",7800
+51008,"Beloeil","Beloeil","Aat","Ath","Henegouwen","Hainaut","Waals Gewest","Région wallonne","14060",7972
+51009,"Bernissart","Bernissart","Aat","Ath","Henegouwen","Hainaut","Waals Gewest","Région wallonne","11852",7320
+51012,"Brugelette","Brugelette","Aat","Ath","Henegouwen","Hainaut","Waals Gewest","Région wallonne","3724",7941
+51014,"Chièvres","Chièvres","Aat","Ath","Henegouwen","Hainaut","Waals Gewest","Région wallonne","6925",7950
+51017,"Elzele","Ellezelles","Aat","Ath","Henegouwen","Hainaut","Waals Gewest","Région wallonne","5992",7890
+51019,"Vloesberg","Flobecq","Aat","Ath","Henegouwen","Hainaut","Waals Gewest","Région wallonne","3433",7880
+51065,"Frasnes-lez-Anvaing","Frasnes-lez-Anvaing","Aat","Ath","Henegouwen","Hainaut","Waals Gewest","Région wallonne","11833",7910
+51067,"Edingen","Enghien","Aat","Ath","Henegouwen","Hainaut","Région wallonne","Région wallonne","14061",7850
+51068,"Opzullik","Silly","Aat","Ath","Henegouwen","Hainaut","Waals Gewest","Région wallonne","8348",7830
+51069,"Lessen","Lessines","Aat","Ath","Henegouwen","Hainaut","Henegouwen","Région wallonne","18746",7860
+52010,"Chapelle-lez-Herlaimont","Chapelle-lez-Herlaimont","Charleroi","Charleroi","Henegouwen","Hainaut","Waals Gewest","Région wallonne","14805",7160
+52011,"Charleroi","Charleroi","Charleroi","Charleroi","Henegouwen","Hainaut","Waals Gewest","Région wallonne","202746",6000
+52012,"Châtelet","Châtelet","Charleroi","Charleroi","Henegouwen","Hainaut","Waals Gewest","Région wallonne","35668",6200
+52015,"Courcelles","Courcelles","Charleroi","Charleroi","Henegouwen","Hainaut","Waals Gewest","Région wallonne","31197",6180
+52018,"Farciennes","Farciennes","Charleroi","Charleroi","Henegouwen","Hainaut","Waals Gewest","Région wallonne","11255",6240
+52021,"Fleurus","Fleurus","Charleroi","Charleroi","Henegouwen","Hainaut","Waals Gewest","Région wallonne","23056",6222
+52022,"Fontaine-l’Evêque","Fontaine-l’Evêque","Charleroi","Charleroi","Henegouwen","Hainaut","Waals Gewest","Région wallonne","17838",6140
+52025,"Gerpinnes","Gerpinnes","Charleroi","Charleroi","Henegouwen","Hainaut","Waals Gewest","Région wallonne","12808",6280
+52048,"Montigny-le-Tilleul","Montigny-le-Tilleul","Charleroi","Charleroi","Henegouwen","Hainaut","Waals Gewest","Région wallonne","10132",6111
+52055,"Pont-à-Celles","Pont-à-Celles","Charleroi","Charleroi","Henegouwen","Hainaut","Waals Gewest","Région wallonne","17251",6230
+52074,"Aiseau-Presles","Aiseau-Presles","Charleroi","Charleroi","Henegouwen","Hainaut","Waals Gewest","Région wallonne","10739",6250
+52075,"Les Bons Villers","Les Bons Villers","Charleroi","Charleroi","Henegouwen","Hainaut","Waals Gewest","Région wallonne","9467",6210
+53014,"Boussu","Boussu","Bergen","Mons","Henegouwen","Hainaut","Waals Gewest","Région wallonne","19846",7300
+53020,"Dour","Dour","Bergen","Mons","Henegouwen","Hainaut","Waals Gewest","Région wallonne","16512",7370
+53028,"Frameries","Frameries","Bergen","Mons","Henegouwen","Hainaut","Waals Gewest","Région wallonne","21959",7080
+53039,"Hensies","Hensies","Bergen","Mons","Henegouwen","Hainaut","Waals Gewest","Région wallonne","6849",7350
+53044,"Jurbeke","Jurbise","Bergen","Mons","Henegouwen","Hainaut","Waals Gewest","Région wallonne","10522",7050
+53046,"Lens","Lens","Bergen","Mons","Henegouwen","Hainaut","Waals Gewest","Région wallonne","4592",7870
+53053,"Bergen","Mons","Bergen","Mons","Henegouwen","Hainaut","Waals Gewest","Région wallonne","95887",7024
+53065,"Quaregnon","Quaregnon","Bergen","Mons","Henegouwen","Hainaut","Waals Gewest","Région wallonne","18918",7390
+53068,"Quiévrain","Quiévrain","Bergen","Mons","Henegouwen","Hainaut","Waals Gewest","Région wallonne","6746",7382
+53070,"Saint-Ghislain","Saint-Ghislain","Bergen","Mons","Henegouwen","Hainaut","Waals Gewest","Région wallonne","23428",7331
+53082,"Colfontaine","Colfontaine","Bergen","Mons","Henegouwen","Hainaut","Waals Gewest","Région wallonne","20741",7340
+53083,"Honnelles","Honnelles","Bergen","Mons","Henegouwen","Hainaut","Waals Gewest","Région wallonne","5152",7387
+53084,"Quévy","Quévy","Bergen","Mons","Henegouwen","Hainaut","Waals Gewest","Région wallonne","8085",7040
+55004,"’s Gravenbrakel","Braine-le-Comte","Zinnik","Soignies","Henegouwen","Hainaut","Waals Gewest","Région wallonne","22062",7090
+55035,"Le Roeulx","Le Roeulx","Zinnik","Soignies","Henegouwen","Hainaut","Waals Gewest","Région wallonne","8735",7070
+55040,"Zinnik","Soignies","Zinnik","Soignies","Henegouwen","Hainaut","Waals Gewest","Région wallonne","28271",7061
+55050,"Ecaussinnes","Ecaussinnes","Zinnik","Soignies","Henegouwen","Hainaut","Waals Gewest","Région wallonne","11202",7190
+55085,"Seneffe","Seneffe","Zinnik","Soignies","Henegouwen","Hainaut","Waals Gewest","Région wallonne","11480",7180
+55086,"Manage","Manage","Zinnik","Soignies","Henegouwen","Hainaut","Waals Gewest","Région wallonne","23429",7170
+56001,"Anderlues","Anderlues","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","12362",6150
+56005,"Beaumont","Beaumont","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","7165",6500
+56016,"Chimay","Chimay","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","9726",6464
+56022,"Erquelinnes","Erquelinnes","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","9986",6560
+56029,"Froidchapelle","Froidchapelle","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","3993",6440
+56044,"Lobbes","Lobbes","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","5818",6543
+56049,"Merbes-le-Château","Merbes-le-Château","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","4212",6567
+56051,"Momignies","Momignies","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","5345",6594
+56078,"Thuin","Thuin","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","14703",6533
+56086,"Ham-sur-Heure-Nalinnes","Ham-sur-Heure-Nalinnes","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","13621",6120
+56088,"Sivry-Rance","Sivry-Rance","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","4794",6470
+57003,"Antoing","Antoing","Doornik-Moeskroen","Tournai-Mouscron","Henegouwen","Hainaut","Waals Gewest","Région wallonne","7714",7640
+57018,"Celles","Celles","Doornik-Moeskroen","Tournai-Mouscron","Henegouwen","Hainaut","Waals Gewest","Région wallonne","5691",7760
+57027,"Estaimpuis","Estaimpuis","Doornik-Moeskroen","Tournai-Mouscron","Henegouwen","Hainaut","Waals Gewest","Région wallonne","10566",7730
+57062,"Pecq","Pecq","Doornik-Moeskroen","Tournai-Mouscron","Henegouwen","Hainaut","Waals Gewest","Région wallonne","5761",7743
+57064,"Péruwelz","Péruwelz","Doornik-Moeskroen","Tournai-Mouscron","Henegouwen","Hainaut","Waals Gewest","Région wallonne","17120",7604
+57072,"Rumes","Rumes","Doornik-Moeskroen","Tournai-Mouscron","Henegouwen","Hainaut","Waals Gewest","Région wallonne","5220",7611
+57081,"Doornik","Tournai","Doornik-Moeskroen","Tournai-Mouscron","Henegouwen","Hainaut","Waals Gewest","Région wallonne","69083",7534
+57093,"Brunehaut","Brunehaut","Doornik-Moeskroen","Tournai-Mouscron","Henegouwen","Hainaut","Waals Gewest","Région wallonne","8089",7620
+57094,"Leuze-en-Hainaut","Leuze-en-Hainaut","Doornik-Moeskroen","Tournai-Mouscron","Henegouwen","Hainaut","Waals Gewest","Région wallonne","13941",7903
+57095,"Mont-de-l’Enclus","Mont-de-l’Enclus","Doornik-Moeskroen","Tournai","Henegouwen","Hainaut","Waals Gewest","Région wallonne","3789",7750
+57096,"Moeskroen","Mouscron","Doornik-Moeskroen","Tournai-Mouscron","Henegouwen","Hainaut","Waals Gewest","Région wallonne","58767",7711
+57097,"Komen-Waasten","Comines-Warneton","Doornik-Moeskroen","Tournai-Mouscron","Henegouwen","Hainaut","Waals Gewest","Région wallonne","18058",7783
+58001,"La Louvière","La Louvière","Zinnik","Soignies","Henegouwen","Hainaut","Waals Gewest","Région wallonne","81138",7866
+58002,"Binche","Binche","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","33448",7130
+58003,"Estinnes","Estinnes","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","7759",7120
+58004,"Morlanwelz","Morlanwelz","Thuin","Thuin","Henegouwen","Hainaut","Waals Gewest","Région wallonne","19125",7140
+61003,"Amay","Amay","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","14406",4540
+61010,"Burdinne","Burdinne","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","3297",4210
+61012,"Clavier","Clavier","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","4642",4560
+61019,"Ferrières","Ferrières","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","5006",4190
+61024,"Hamoir","Hamoir","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","3846",4180
+61028,"Héron","Héron","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","5476",4218
+61031,"Hoei","Huy","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","21238",4500
+61039,"Marchin","Marchin","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","5441",4570
+61041,"Modave","Modave","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","4219",4577
+61043,"Nandrin","Nandrin","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","5758",4550
+61048,"Ouffet","Ouffet","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","2797",4590
+61063,"Verlaine","Verlaine","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","4277",4537
+61068,"Villers-Le-Bouillet","Villers-Le-Bouillet","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","6593",4530
+61072,"Wanze","Wanze","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","13731",4520
+61079,"Anthisnes","Anthisnes","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","4198",4160
+61080,"Engis","Engis","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","6209",4480
+61081,"Tinlot","Tinlot","Hoei","Huy","Luik","Liège","Waals Gewest","Région wallonne","2735",4557
+62003,"Ans","Ans","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","28598",4432
+62006,"Awans","Awans","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","9243",4340
+62009,"Aywaille","Aywaille","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","12394",4920
+62011,"Bitsingen","Bassenge","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","8931",4690
+62015,"Beyne-Heusay","Beyne-Heusay","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","11891",4610
+62022,"Chaudfontaine","Chaudfontaine","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","20855",4052
+62026,"Comblain-au-Pont","Comblain-au-Pont","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","5396",4170
+62027,"Dalhem","Dalhem","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","7517",4607
+62032,"Esneux","Esneux","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","13015",4130
+62038,"Fléron","Fléron","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","16370",4620
+62051,"Herstal","Herstal","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","40190",4040
+62060,"Juprelle","Juprelle","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","9435",4458
+62063,"Luik","Liège","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","197217",4031
+62079,"Oupeye","Oupeye","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","25444",4684
+62093,"Saint-Nicolas","Saint-Nicolas","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","24329",4420
+62096,"Seraing","Seraing","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","64192",4100
+62099,"Soumagne","Soumagne","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","17040",4630
+62100,"Sprimont","Sprimont","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","14909",4140
+62108,"Wezet","Visé","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","17926",4601
+62118,"Grâce-Hollogne","Grâce-Hollogne","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","22823",4460
+62119,"Blégny","Blégny","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","13387",4671
+62120,"Flémalle","Flémalle","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","26389",4400
+62121,"Neupré","Neupré","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","9977",4120
+62122,"Trooz","Trooz","Luik","Liège","Luik","Liège","Waals Gewest","Région wallonne","8297",4870
+63001,"Amel","Amblève","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","5486",4770
+63003,"Aubel","Aubel","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","4246",4880
+63004,"Baelen","Baelen","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","4487",4837
+63012,"Büllingen","Bullange","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","5456",4760
+63013,"Bütgenbach","Butgenbach","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","5629",4750
+63020,"Dison","Dison","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","15255",4821
+63023,"Eupen","Eupen","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","19762",4700
+63035,"Herve","Herve","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","17620",4651
+63038,"Jalhay","Jalhay","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","8728",4845
+63040,"Kelmis","La Calamine","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","11212",4728
+63045,"Lierneux","Lierneux","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","3575",4990
+63046,"Limburg","Limbourg","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","5905",4831
+63048,"Lontzen","Lontzen","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","5833",4710
+63049,"Malmedy","Malmedy","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","12797",4960
+63057,"Olne","Olne","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","4036",4877
+63058,"Pepinster","Pepinster","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","9693",4860
+63061,"Raeren","Raeren","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","10818",4731
+63067,"Sankt Vith","Saint-Vith","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","9779",4784
+63072,"Spa","Spa","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","10149",4900
+63073,"Stavelot","Stavelot","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","7153",4970
+63075,"Stoumont","Stoumont","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","3174",4987
+63076,"Theux","Theux","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","12012",4910
+63079,"Verviers","Verviers","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","55290",4800
+63080,"Weismes","Waimes","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","7379",4950
+63084,"Welkenraedt","Welkenraedt","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","10068",4841
+63086,"Trois-Ponts","Trois-Ponts","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","2553",4983
+63087,"Burg-Reuland","Burg-Reuland","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","3974",4790
+63088,"Plombières","Plombières","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","10527",4851
+63089,"Thimister-Clermont","Thimister-Clermont","Verviers","Verviers","Luik","Liège","Waals Gewest","Région wallonne","5681",4890
+64008,"Berloz","Berloz","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","3135",4257
+64015,"Braives","Braives","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","6391",4260
+64021,"Crisnée","Crisnée","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","3465",4367
+64023,"Donceel","Donceel","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","3088",4357
+64025,"Fexhe-le-Haut-Clocher","Fexhe-le-Haut-Clocher","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","3216",4347
+64029,"Geer","Geer","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","3478",4250
+64034,"Hannuit","Hannut","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","16685",4280
+64047,"Lijsem","Lincent","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","3280",4287
+64056,"Oerle","Oreye","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","3904",4360
+64063,"Remicourt","Remicourt","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","5972",4351
+64065,"Saint-Georges-sur-Meuse","Saint-Georges-sur-Meuse","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","6924",4470
+64074,"Borgworm","Waremme","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","15444",4300
+64075,"Wasseiges","Wasseiges","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","2969",4219
+64076,"Faimes","Faimes","Borgworm","Waremme","Luik","Liège","Waals Gewest","Région wallonne","3938",4317
+71002,"As","As","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","8236",3665
+71004,"Beringen","Beringen","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","46598",3580
+71011,"Diepenbeek","Diepenbeek","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","19090",3590
+71016,"Genk","Genk","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","66447",3600
+71017,"Gingelom","Gingelom","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","8389",3890
+71020,"Halen","Halen","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","9485",3545
+71022,"Hasselt","Hasselt","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","78714",3500
+71024,"Herk-de-Stad","Herck-la-Ville","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","12650",3540
+71034,"Leopoldsburg","Bourg-Léopold","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","15850",3971
+71037,"Lummen","Lummen","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","14978",3560
+71045,"Nieuwerkerken","Nieuwerkerken","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","6998",3850
+71053,"Sint-Truiden","Saint-Trond","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","40672",3800
+71057,"Tessenderlo","Tessenderlo","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","18727",3980
+71066,"Zonhoven","Zonhoven","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","21327",3520
+71067,"Zutendaal","Zutendaal","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","7282",3690
+71069,"Ham","Ham","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","10977",3945
+71070,"Heusden-Zolder","Heusden-Zolder","Hasselt","Hasselt","Limburg","Limbourg","Vlaams Gewest","Région flamande","33892",3550
+72003,"Bocholt","Bocholt","Maaseik","Maaseik","Limburg","Limbourg","Vlaams Gewest","Région flamande","13144",3950
+72004,"Bree","Bree","Maaseik","Maaseik","Limburg","Limbourg","Vlaams Gewest","Région flamande","16169",3960
+72018,"Kinrooi","Kinrooi","Maaseik","Maaseik","Limburg","Limbourg","Vlaams Gewest","Région flamande","12206",3640
+72020,"Lommel","Lommel","Maaseik","Maaseik","Limburg","Limbourg","Vlaams Gewest","Région flamande","34245",3920
+72021,"Maaseik","Maaseik","Maaseik","Maaseik","Limburg","Limbourg","Vlaams Gewest","Région flamande","25310",3680
+72030,"Peer","Peer","Maaseik","Maaseik","Limburg","Limbourg","Vlaams Gewest","Région flamande","16298",3990
+72037,"Hamont-Achel","Hamont-Achel","Maaseik","Maaseik","Limburg","Limbourg","Vlaams Gewest","Région flamande","14299",3930
+72038,"Hechtel-Eksel","Hechtel-Eksel","Maaseik","Maaseik","Limburg","Limbourg","Vlaams Gewest","Région flamande","12510",3941
+72039,"Houthalen-Helchteren","Houthalen-Helchteren","Maaseik","Maaseik","Limburg","Limbourg","Vlaams Gewest","Région flamande","30550",3530
+72041,"Dilsen-Stokkem","Dilsen-Stokkem","Maaseik","Maaseik","Limburg","Limbourg","Vlaams Gewest","Région flamande","20693",3650
+72042,"Oudsbergen","Oudsbergen","Maaseik","Maaseik","Limburg","Limbourg","Vlaams Gewest","Région flamande","23615",3660
+72043,"Pelt","Pelt","Maaseik","Maaseik","Limburg","Limbourg","Vlaams Gewest","Région flamande","33076",3900
+73001,"Alken","Alken","Tongeren","Tongres","Limburg","Limbourg","Vlaams Gewest","Région flamande","11626",3570
+73006,"Bilzen","Bilzen","Tongeren","Tongres","Limburg","Limbourg","Vlaams Gewest","Région flamande","32477",3740
+73009,"Borgloon","Looz","Tongeren","Tongres","Limburg","Limbourg","Vlaams Gewest","Région flamande","11010",3840
+73022,"Heers","Heers","Tongeren","Tongres","Limburg","Limbourg","Vlaams Gewest","Région flamande","7337",3870
+73028,"Herstappe","Herstappe","Tongeren","Tongres","Limburg","Limbourg","Vlaams Gewest","Région flamande","79",3717
+73032,"Hoeselt","Hoeselt","Tongeren","Tongres","Limburg","Limbourg","Vlaams Gewest","Région flamande","9730",3730
+73040,"Kortessem","Kortessem","Tongeren","Tongres","Limburg","Limbourg","Vlaams Gewest","Région flamande","8437",3723
+73042,"Lanaken","Lanaken","Tongeren","Tongres","Limburg","Limbourg","Vlaams Gewest","Région flamande","25884",3620
+73066,"Riemst","Riemst","Tongeren","Tongres","Limburg","Limbourg","Vlaams Gewest","Région flamande","16759",3770
+73083,"Tongeren","Tongres","Tongeren","Tongres","Limburg","Limbourg","Vlaams Gewest","Région flamande","31142",3700
+73098,"Wellen","Wellen","Tongeren","Tongres","Limburg","Limbourg","Vlaams Gewest","Région flamande","7354",3830
+73107,"Maasmechelen","Maasmechelen","Tongeren","Tongres","Limburg","Limbourg","Vlaams Gewest","Région flamande","38933",3631
+73109,"Voeren","Fourons","Tongeren","Tongres","Limburg","Limbourg","Vlaams Gewest","Région flamande","4175",3790
+81001,"Aarlen","Arlon","Aarlen","Arlon","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","30081",6700
+81003,"Attert","Attert","Aarlen","Arlon","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5646",6717
+81004,"Aubange","Aubange","Aarlen","Arlon","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","17146",6791
+81013,"Martelange","Martelange","Aarlen","Arlon","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","1857",6630
+81015,"Messancy","Messancy","Aarlen","Arlon","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","8266",6782
+82003,"Bastenaken","Bastogne","Bastenaken","Bastogne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","16276",6600
+82005,"Bertogne","Bertogne","Bastenaken","Bastogne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","3656",6687
+82009,"Fauvillers","Fauvillers","Bastenaken","Bastogne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","2319",6637
+82014,"Houffalize","Houffalize","Bastenaken","Bastogne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5207",6660
+82032,"Vielsalm","Vielsalm","Bastenaken","Bastogne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","7886",6690
+82036,"Vaux-sur-Sûre","Vaux-sur-Sûre","Bastenaken","Bastogne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5734",6640
+82037,"Gouvy","Gouvy","Bastenaken","Bastogne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5397",6672
+82038,"Sainte-Ode","Sainte-Ode","Bastenaken","Bastogne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","2608",6680
+83012,"Durbuy","Durbuy","Marche-en-Famenne","Marche-en-Famenne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","11458",6940
+83013,"Erezée","Erezée","Marche-en-Famenne","Marche-en-Famenne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","3267",6997
+83028,"Hotton","Hotton","Marche-en-Famenne","Marche-en-Famenne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5635",6990
+83031,"La Roche-en-Ardenne","La Roche-en-Ardenne","Marche-en-Famenne","Marche-en-Famenne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","4192",6980
+83034,"Marche-en-Famenne","Marche-en-Famenne","Marche-en-Famenne","Marche-en-Famenne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","17591",6900
+83040,"Nassogne","Nassogne","Marche-en-Famenne","Marche-en-Famenne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5568",6953
+83044,"Rendeux","Rendeux","Marche-en-Famenne","Marche-en-Famenne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","2641",6987
+83049,"Tenneville","Tenneville","Marche-en-Famenne","Marche-en-Famenne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","2848",6971
+83055,"Manhay","Manhay","Marche-en-Famenne","Marche-en-Famenne","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","3571",6960
+84009,"Bertrix","Bertrix","Neufchâteau","Neufchâteau","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","8844",6880
+84010,"Bouillon","Bouillon","Neufchâteau","Neufchâteau","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5427",6834
+84016,"Daverdisse","Daverdisse","Neufchâteau","Neufchâteau","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","1382",6929
+84029,"Herbeumont","Herbeumont","Neufchâteau","Neufchâteau","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","1649",6887
+84033,"Léglise","Léglise","Neufchâteau","Neufchâteau","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5553",6860
+84035,"Libin","Libin","Neufchâteau","Neufchâteau","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5245",6890
+84043,"Neufchâteau","Neufchâteau","Neufchâteau","Neufchâteau","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","7795",6840
+84050,"Paliseul","Paliseul","Neufchâteau","Neufchâteau","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5392",6850
+84059,"Saint-Hubert","Saint-Hubert","Neufchâteau","Neufchâteau","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5605",6870
+84068,"Tellin","Tellin","Neufchâteau","Neufchâteau","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","2443",6927
+84075,"Wellin","Wellin","Neufchâteau","Neufchâteau","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","3108",6921
+84077,"Libramont-Chevigny","Libramont-Chevigny","Neufchâteau","Neufchâteau","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","11320",6800
+85007,"Chiny","Chiny","Virton","Virton","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5226",6810
+85009,"Etalle","Etalle","Virton","Virton","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5961",6743
+85011,"Florenville","Florenville","Virton","Virton","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","5594",6824
+85024,"Meix-devant-Virton","Meix-devant-Virton","Virton","Virton","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","2810",6769
+85026,"Musson","Musson","Virton","Virton","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","4659",6750
+85034,"Saint-Léger","Saint-Léger","Virton","Virton","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","3656",6747
+85039,"Tintigny","Tintigny","Virton","Virton","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","4302",5555
+85045,"Virton","Virton","Virton","Virton","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","11341",6760
+85046,"Habay","Habay","Virton","Virton","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","8477",6721
+85047,"Rouvroy","Rouvroy","Virton","Virton","Luxemburg","Luxembourg","Waals Gewest","Région wallonne","2113",6767
+91005,"Anhée","Anhée","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","7143",5537
+91013,"Beauraing","Beauraing","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","9157",5570
+91015,"Bièvre","Bièvre","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","3362",5555
+91030,"Ciney","Ciney","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","16706",5590
+91034,"Dinant","Dinant","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","13374",5500
+91054,"Gedinne","Gedinne","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","4652",5575
+91059,"Hamois","Hamois","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","7364",5362
+91064,"Havelange","Havelange","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","5237",5370
+91072,"Houyet","Houyet","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","4987",4317
+91103,"Onhaye","Onhaye","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","3230",5520
+91114,"Rochefort","Rochefort","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","12571",5580
+91120,"Somme-Leuze","Somme-Leuze","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","5799",5377
+91141,"Yvoir","Yvoir","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","9109",5530
+91142,"Hastière","Hastière","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","6016",5544
+91143,"Vresse-sur-Semois","Vresse-sur-Semois","Dinant","Dinant","Namen","Namur","Waals Gewest","Région wallonne","2579",5550
+92003,"Andenne","Andenne","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","27573",5300
+92006,"Assesse","Assesse","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","7090",5330
+92035,"Eghezée","Eghezée","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","16448",5310
+92045,"Floreffe","Floreffe","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","8148",5150
+92048,"Fosses-la-Ville","Fosses-la-Ville","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","10469",5070
+92054,"Gesves","Gesves","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","7208",5340
+92087,"Mettet","Mettet","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","13153",5640
+92094,"Namen","Namur","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","111432",5000
+92097,"Ohey","Ohey","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","5142",5350
+92101,"Profondeville","Profondeville","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","12176",5170
+92114,"Sombreffe","Sombreffe","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","8480",5140
+92137,"Sambreville","Sambreville","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","28372",5060
+92138,"Fernelmont","Fernelmont","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","8067",5380
+92140,"Jemeppe-sur-Sambre","Jemeppe-sur-Sambre","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","19100",5190
+92141,"La Bruyère","La Bruyère","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","9232",5081
+92142,"Gembloux","Gembloux","Namen","Namur","Namen","Namur","Waals Gewest","Région wallonne","26141",5030
+93010,"Cerfontaine","Cerfontaine","Philippeville","Philippeville","Namen","Namur","Waals Gewest","Région wallonne","4987",5630
+93014,"Couvin","Couvin","Philippeville","Philippeville","Namen","Namur","Waals Gewest","Région wallonne","13838",5660
+93018,"Doische","Doische","Philippeville","Philippeville","Namen","Namur","Waals Gewest","Région wallonne","2970",5680
+93022,"Florennes","Florennes","Philippeville","Philippeville","Namen","Namur","Waals Gewest","Région wallonne","11266",5620
+93056,"Philippeville","Philippeville","Philippeville","Philippeville","Namen","Namur","Waals Gewest","Région wallonne","9201",5600
+93088,"Walcourt","Walcourt","Philippeville","Philippeville","Namen","Namur","Waals Gewest","Région wallonne","18407",5651
+93090,"Viroinval","Viroinval","Philippeville","Philippeville","Namen","Namur","Waals Gewest","Région wallonne","5646",5670

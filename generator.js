@@ -5,8 +5,8 @@ const   fs = require('fs'),
         json2xml = require('xml-js');
 
 //Generation constants
-const   input_path = "./data/2019/root.json",
-        output_path="./data/2019/"
+const   input_path = "./data/2020/root.json",
+        output_path="./data/2020/"
 
 
 //Read in the input data and start conversion if there were no errors
